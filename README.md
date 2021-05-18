@@ -8,7 +8,7 @@ O metodo magia recebia como parametros o objeto tipo String "feitiço".
 
 E todos outros metodos retornava para ele mesmo.
 
-Foi criado mais quatro classes(com os herdeiros legiitimos dos criadores de cada casa): Lazarus, Grisha, Riddle e Wiglaf.
+Foi criado mais quatro classes(com os herdeiros legitimos dos criadores de cada casa): Lazarus, Grisha, Riddle e Wiglaf.
 
 Onde cada uma herdava seus respectivos métodos da classe de Hogwarts.
 
